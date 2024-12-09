@@ -1,6 +1,6 @@
 import Footer from '@/components/Footer'
 import HastagList from '@/components/HastagList'
-import Container from '@/components/container'
+import Container from '../components/Container'
 
 import React from 'react'
 
